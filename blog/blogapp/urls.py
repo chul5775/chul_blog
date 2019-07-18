@@ -3,5 +3,4 @@ from blogapp import views
 
 urlpatterns = [
     path('', views.Main),
-    path('main', views.Main),
 ]
